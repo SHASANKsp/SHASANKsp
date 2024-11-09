@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shasank Shekhar Padhi.
-- 🌱 I’m currently learning to build an efective ML model for various datasets and its deployment\
+- 🌱 I’m currently learning to build an efective ML model for various datasets and its deployment
 - 📫 How to reach me: shasankashekharpadhi@gmail.com
 
 <!---
