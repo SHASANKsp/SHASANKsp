@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shasank Shekhar Padhi.
-- 👀 I’m interested in Cancer genomics, rare disease, big data analysis and NGS analysis.
-- 🌱 I’m currently learning to build an efective ML model for various datasets and its deployment and analysing NGS data
-- 💞️ I’m looking to collaborate on better understanding of cancer and rare disease through data analysis and machine learning.
+- 🌱 I’m currently learning to build an efective ML model for various datasets and its deployment\
 - 📫 How to reach me: shasankashekharpadhi@gmail.com
 
 <!---
