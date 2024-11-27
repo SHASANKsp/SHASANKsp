@@ -3,7 +3,7 @@
 - 🧬 Skilled in NGS, GWAS analysis, and systems modeling, driving advancements in genomics and therapeutic research through **data-driven solutions**.
 - 🧠 Leveraging **machine learning** to tackle diverse biological challenges and modalities.
 - 💡 Currently exploring advanced machine learning model development, deployment frameworks, and graph-based analytics.
-- 🔧 Proficient in Python, R, Shell Scripting, Neo4j, Docker, and ML frameworks.
+- 🔧 Proficient in Python, R, Shell Scripting, Docker, and ML frameworks.
 - 🌐 Reach me at shasankashekharpadhi@gmail.com
 
 <!---
