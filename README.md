@@ -5,7 +5,7 @@
 - 💡 Currently exploring advanced machine learning model development, deployment frameworks, and graph-based analytics.
 - 🔧 Proficient in Python, R, Shell Scripting, Docker, and ML frameworks.
 - 🌐 https://shasanksp.github.io/
-- 🌐 Reach me at shasankashekharpadhi@gmail.com
+- 🌐 Reach me at shasankashekharpadhi@gmail.com / https://www.linkedin.com/in/shasankashekharpadhi/
 
 <!---
 SHASANKsp/SHASANKsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
