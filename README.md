@@ -4,6 +4,7 @@
 - 🧠 Leveraging **machine learning** to tackle diverse biological challenges and modalities.
 - 💡 Currently exploring advanced machine learning model development, deployment frameworks, and graph-based analytics.
 - 🔧 Proficient in Python, R, Shell Scripting, Docker, and ML frameworks.
+- 🌐 https://shasanksp.github.io/
 - 🌐 Reach me at shasankashekharpadhi@gmail.com
 
 <!---
