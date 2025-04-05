@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shasank Shekhar Padhi.
-- 🎓 Master's in **Bioinformatics** with 2+ years of experience developing bioinformatics pipelines, machine learning models, and graph analytics.
+- 🎓 Master's in **Bioinformatics** with around 3 years of experience developing bioinformatics pipelines, machine learning models, and graph analytics.
 - 🧬 Skilled in NGS, GWAS analysis, and systems modeling, driving advancements in genomics and therapeutic research through **data-driven solutions**.
 - 🧠 Leveraging **machine learning** to tackle diverse biological challenges and modalities.
 - 💡 Currently exploring advanced machine learning model development, deployment frameworks, and graph-based analytics.
