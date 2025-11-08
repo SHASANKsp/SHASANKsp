@@ -1,6 +1,6 @@
 # Hi, I'm Shasank Shekhar Padhi 
 
-AI/ML Engineer | Knowledge Graph Architect | Bioinformatics Scientist   
+Computational scientist | AI/ML Engineer | Knowledge Graph Architect  
 Senior Research Associate at Syngene | Bengaluru, India 
 
 ## About me
@@ -11,31 +11,30 @@ A Data Science/Machine Learning professional with over 3 years of experience in 
 `AI/ML`- Frameworks: PyTorch | Scikit-learn | TensorFlow | SciPy | LLM | GNN | GEN-AI | RAG   
 `Deployment`: Docker | GIT | RESTAPI | LangChain  
 `Databases`: Neo4J | MongoDB | ChromaDB  
-`Bioinformatics`: RNA seq, scRNA seq, WGS | GWAS | Systems Modeling  
+`Bioinformatics`: RNA seq, scRNA seq, WGS | GWAS   
 
 ## Highlights
 1. Antibody generation:
 Built an end-to-end Generative AI pipeline for antibody sequence generation and optimization using LLMs ensuring high-affinity binders.
 Impact: Reduced discovery time compared to traditional methods.
 
-2. Biomedical Knowledge Graph (Neo4j):
+2. Biomedical Knowledge Graph (Neo4j)
 Constructed a ~10M relationship KG from biological, clinical, and real-world data (RWD), harmonized with controlled vocabularies for each entity.
 Application included drug repurposing, target identification, safety assessment for toxicity and organ wise stratification.
 Impact: Reduced months of work to weeks by employing link prediction, node classification and community detection algorithms.
 
-3. Automated ML model development for Drug Properties:
+3. Automated ML model development for Drug Properties
 Developed an AutoML pipeline for QSPR modeling developing predictive models. Enabled non-ML researchers to train and evaluate models without prior coding experiance.
 Impact: Reduced dependency on data scientists.
 
-4. Biomarker Discovery (Ensemble ML + Omics)
-Trained XGBoost models on RNA-seq/scRNA-seq data for biomarker identification.
-Identified novel biomarkers for patient stratification.
+4. Machine Learning driven biomarker identification
+Developed a computational workflow for biomarker identification, using DEG analysis, WCGNA and classical ML models with RNA seq data, to identify diagnostic and prognostic signatures, enabling patient stratification for precision medicine applications.
 
-5. VectorDB for Drug Binding Sites:
+5. VectorDB for Drug Binding Sites
 Developed a pipeline to accelerate searches across a vector database containing binding pockets, enabling rapid identification of similar sites to assess target protein and possible adverse events
 
-6. Temporal KG for Diabetes EHR (Neo4j + LLaMA3 RAG):
-Built a time-aware knowledge graph from patient records. Integrated LLM-based Q&A for clinical decision support (in progress).
+6. Temporal KG for Diabetes EHR (Neo4j + LLaMA3 RAG)
+Built a time-aware knowledge graph from diabetes patient records (EHR) using Neo4j, integrated with llama3 to setup a GraphRAG workflow for various AI driven medical applications.
 
 7. Breast Cancer Multi-Output Classification
 Built a multi output classification model for breast cancer using iTRAQ proteome profiles of TCGA cancer samples and METABRIC mRNA levels
@@ -43,8 +42,11 @@ Built a multi output classification model for breast cancer using iTRAQ proteome
 8. Protein Classification (Deep Learning)
 Used protein sequence embeddings (ProtBERT) for functional prediction.
 
-9. TOX24 - Drug Toxicity Prediction (GATs + QSAR)
+9. TOX24 - Drug Toxicity Prediction (GATs + QSPR)
 Applied Graph Attention Networks on molecular structures.
+
+10. NeurIPS_Open Polymer Prediction Challenge (QSPR model)
+Predictive models for polymer property prediction.
 
 ## Open for collaboration
 - Email: [shasankashekharpadhi@gmail.com](mailto:shasankashekharpadhi@gmail.com)  
