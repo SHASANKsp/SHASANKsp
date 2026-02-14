@@ -1,10 +1,10 @@
 # Hi, I'm Shasank Shekhar Padhi 
 
 Computational scientist | AI/ML Engineer | Knowledge Graph Architect  
-Senior Research Associate at Syngene | Bengaluru, India 
+Senior Specialist at Syngene | Bengaluru, India 
 
 ## About me
-A Data Science/Machine Learning professional with over 3 years of experience in AI/ML model development, data pipelines, and knowledge graph applications. Skilled in GenAI, NLP, LLM and building knowledge graph solutions to drive data-driven insights, enhance decision-making, and deliver scalable solutions through cross-functional collaboration across diverse industries.
+A Bioinformatics professional with 3+ years of experience in AI/ML model development, biomarker identification, and knowledge graph applications. Skilled in GenAI, LLM, knowledge graph analytics and core bioinformatics solutions to drive data driven insights, enhance decision making, and deliver scalable solutions through cross functional collaboration across diverse domains. Focused on advancing computational research that integrates AI and data-driven science to solve complex problems across biology, healthcare, and beyond.
 
 ## Technical skills
 `Programming languages`: Python | R | Cypher | Shell Scripting  
@@ -15,7 +15,7 @@ A Data Science/Machine Learning professional with over 3 years of experience in 
 
 ## Highlights
 1. Antibody generation:
-Built an end-to-end Generative AI pipeline for antibody sequence generation and optimization using LLMs ensuring high-affinity binders.
+Built an end-to-end Generative AI pipeline for antibody sequence generation and optimization using prebuilt LLMs ensuring high-affinity binders.
 Impact: Reduced discovery time compared to traditional methods.
 
 2. Biomedical Knowledge Graph (Neo4j)
@@ -42,13 +42,17 @@ Built a multi output classification model for breast cancer using iTRAQ proteome
 8. Protein Classification (Deep Learning)
 Used protein sequence embeddings (ProtBERT) for functional prediction.
 
-9. TOX24 - Drug Toxicity Prediction (GATs + QSPR)
-Applied Graph Attention Networks on molecular structures.
+9. Drug induced liver injury (DILI) prediction model (QSPR)
+Build a QSPR model to predict DILI from SMILE, generating descriptors and fingerpints using RDKit and building the model and elucidating mechanistic insights based on SHAP score. 
 
 10. NeurIPS_Open Polymer Prediction Challenge (QSPR model)
 Predictive models for polymer property prediction.
+
+11. Autism Spectrum Disorder (ASD) classification from caregiver-written behavioral text
+Evaluating Lexical and Semantic Representations for Autism Detection from Caregiver Remarks through an NLP model
 
 ## Open for collaboration
 - Email: [shasankashekharpadhi@gmail.com](mailto:shasankashekharpadhi@gmail.com)  
 - LinkedIn: [in/shasankashekharpadhi](https://linkedin.com/in/shasankashekharpadhi)  
 - Portfolio: [shasanksp.github.io](https://shasanksp.github.io)
+- Medium: [medium/shasankashekharpadhi](https://medium.com/@shasankashekharpadhi)
