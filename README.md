@@ -7,9 +7,9 @@ Senior Specialist at Syngene | Bengaluru, India
 A Bioinformatics professional with 3.5+ years of experience in AI/ML model development, biomarker identification, and knowledge graph applications. Skilled in GenAI, LLM, knowledge graph analytics and core bioinformatics solutions to drive data driven insights, enhance decision making, and deliver scalable solutions through cross functional collaboration across diverse domains. Focused on advancing computational research that integrates AI and data driven science to solve complex problems across biology, healthcare, and beyond.
 
 ## Education
-Master of Technology: Bioinformatics @ University of Hyderabad 
-Bachelor of Engineering: Biotechnology @ Birla Institute of Technology
-GATE 2022 (AIR : 309)
+Master of Technology: Bioinformatics @ University of Hyderabad   
+Bachelor of Engineering: Biotechnology @ Birla Institute of Technology  
+GATE 2022 (AIR : 309)  
 
 ## Technical skills
 `Programming languages`: Python | R | Cypher | Shell Scripting  
