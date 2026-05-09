@@ -46,23 +46,26 @@ Developed a structure based druggability prediction pipeline leveraging parallel
 Developed an automated compound identification pipeline leveraging spectral data, matched against a processed in-house reference compound database.
 
 ## Highlights - Personal projects
-1. Temporal KG for Diabetes EHR (Neo4j + LLaMA3 RAG)
+1. TrialGraph: Clinical Trials Knowledge Graph with an LLM orchestrated analytical pipeline
+A graph native intelligence platform built on Neo4j that transforms raw ClinicalTrials.gov data into a queryable knowledge graph, powering drug intelligence, disease analytics, sponsor profiling, network analysis, and a GraphRAG pipeline for grounded clinical Q&A.
+
+2. Temporal KG for Diabetes EHR (Neo4j + LLaMA3 RAG)
 Built a time aware knowledge graph from diabetes patient records (EHR) using Neo4j, integrated with llama3 to setup a GraphRAG workflow for various AI driven medical applications.
 
-2. Breast Cancer Multi Output Classification
-Built a multi output classification model for breast cancer using iTRAQ proteome profiles of TCGA cancer samples and METABRIC mRNA levels
+3. Autism Spectrum Disorder (ASD) classification from caregiver-written behavioral text
+Evaluating Lexical and Semantic Representations for Autism Detection from Caregiver Remarks through an NLP model
 
-3. Protein Classification (Deep Learning)
-Used protein sequence embeddings (ProtBERT) for functional prediction.
-
-4. Drug induced liver injury (DILI) prediction model (QSPR)
-Build a QSPR model to predict DILI from SMILE, generating descriptors and fingerpints using RDKit and building the model and elucidating mechanistic insights based on SHAP score. 
-
-5. NeurIPS_Open Polymer Prediction Challenge (QSPR model)
+4. NeurIPS_Open Polymer Prediction Challenge (QSPR model)
 Predictive models for polymer property prediction.
 
-6. Autism Spectrum Disorder (ASD) classification from caregiver-written behavioral text
-Evaluating Lexical and Semantic Representations for Autism Detection from Caregiver Remarks through an NLP model
+5. Protein Classification (Deep Learning)
+Used protein sequence embeddings (ProtBERT) for functional prediction.
+
+6. Drug induced liver injury (DILI) prediction model (QSPR)
+Build a QSPR model to predict DILI from SMILE, generating descriptors and fingerpints using RDKit and building the model and elucidating mechanistic insights based on SHAP score. 
+
+7. Breast Cancer Multi Output Classification
+Built a multi output classification model for breast cancer using iTRAQ proteome profiles of TCGA cancer samples and METABRIC mRNA levels
 
 ## Open for collaboration
 - Email: [shasankashekharpadhi@gmail.com](mailto:shasankashekharpadhi@gmail.com)  
