@@ -1,7 +1,7 @@
 # Hi, I'm Shasank Shekhar Padhi 
 
 Computational scientist | AI/ML Engineer | Knowledge Graph Architect  
-Senior Specialist at Syngene | Bengaluru, India 
+Senior Scientist at Syngene | Bengaluru, India 
 
 ## About me
 A Bioinformatics professional with 3.5+ years of experience in AI/ML model development, biomarker identification, and knowledge graph applications. Skilled in GenAI, LLM, knowledge graph analytics and core bioinformatics solutions to drive data driven insights, enhance decision making, and deliver scalable solutions through cross functional collaboration across diverse domains. Focused on advancing computational research that integrates AI and data driven science to solve complex problems across biology, healthcare, and beyond.
